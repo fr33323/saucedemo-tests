@@ -4,7 +4,7 @@
     <listeners>
         <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
     </listeners>
-    <test verbose="2" preserve-order="true" name="D:/projects/ve3-tests" thread-count="4">
+    <test verbose="2" preserve-order="true" name="ve3-tests" thread-count="4">
     <classes>
         <class name="tests.Test1"/>
         <class name="tests.Test2"/>
